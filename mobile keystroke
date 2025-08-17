@@ -1,0 +1,10 @@
+Mobile Keystroke Biometrics Using Transformers
+Giuseppe Stragapede, Paula Delgado-Santos, Ruben Tolosana, Ruben Vera-Rodriguez, Richard Guest, Aythami Morales
+Among user authentication methods, behavioural biometrics has proven to be effective against identity theft as well as user-friendly and unobtrusive. One of the most popular traits in the literature is keystroke dynamics due to the large deployment of computers 
+and mobile devices in our society. This paper focuses on improving keystroke biometric systems on the free-text scenario. This scenario is characterised as very challenging due to the uncontrolled text conditions, the influence of the user's emotional and physical state, 
+and the in-use application. To overcome these drawbacks, methods based on deep learning such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) have been proposed in the literature, outperforming traditional machine learning methods. 
+However, these architectures still have aspects that need to be reviewed and improved. To the best of our knowledge, this is the first study that proposes keystroke biometric systems based on Transformers. The proposed Transformer architecture has achieved 
+Equal Error Rate (EER) values of 3.84\% in the popular Aalto mobile keystroke database using only 5 enrolment sessions, outperforming by a large margin other state-of-the-art approaches in the literature.
+
+이 논문에서 모바일 장치에서의 자유 텍스트 키스트로크 다이내믹스를 모델링하기 위해 Transformer 기반의 새로운 아키텍처를 제안. 이 모델은 Temporal 및 Channel 모듈, LSTM 계층, 다중 헤드 Self-Attention 메커니즘 등을 포함하며, Aalto 모바일 키스트로크 데이터베이스에서 
+기존 최첨단 시스템을 능가하는 성능을 보임.
