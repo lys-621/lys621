@@ -52,4 +52,5 @@ IMU 센서 연동 가능성
 
 - mobile keystroke/: 모바일 키스트로크 다이내믹스 모델링 논문 정리.
 Transformer 기반 구조로 Aalto 데이터셋에서 SOTA 성능을 기록한 연구 포함.
-- model/: 
+- model/: Type2Branch 모델 실험 자료.
+KVC-onGoing 2024에서 우수 성능을 보인 듀얼 브랜치 기반 키스트로크 인증 모델 정리
